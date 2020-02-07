@@ -1,0 +1,11 @@
+C:\Users\CJ Equila\Desktop\elective3_git_bash\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\CJ Equila\Desktop\elective3_git_bash\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\CJ Equila\Desktop\elective3_git_bash\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\CJ Equila\Desktop\elective3_git_bash\Matrix\Matrix\bin\Debug\Matrix.xml
+C:\Users\CJ Equila\Desktop\elective3_git_bash\Matrix\Matrix\obj\Debug\Matrix.vbprojAssemblyReference.cache
+C:\Users\CJ Equila\Desktop\elective3_git_bash\Matrix\Matrix\obj\Debug\Matrix.Form1.resources
+C:\Users\CJ Equila\Desktop\elective3_git_bash\Matrix\Matrix\obj\Debug\Matrix.Resources.resources
+C:\Users\CJ Equila\Desktop\elective3_git_bash\Matrix\Matrix\obj\Debug\Matrix.vbproj.GenerateResource.cache
+C:\Users\CJ Equila\Desktop\elective3_git_bash\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\CJ Equila\Desktop\elective3_git_bash\Matrix\Matrix\obj\Debug\Matrix.xml
+C:\Users\CJ Equila\Desktop\elective3_git_bash\Matrix\Matrix\obj\Debug\Matrix.pdb
